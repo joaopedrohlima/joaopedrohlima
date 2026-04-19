@@ -30,6 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções digitai
 ## 📫 Contato
 
 - 💼 Portfólio: [joaopedrohlima.netlify.app](https://joaopedrohlima.netlify.app/)
+- 📄 CV PDF: [Portfólio João Pedro Lima - Desenvolvedor Full-stack.pdf](https://drive.google.com/file/d/1f6cQN1jwPa2DeJctZvewg58GWKtHzWyL/view)
 - 📧 Email: [jp.hobuss@gmail.com](jp.hobuss@gmail.com)
 - 💬 LinkedIn: [/joaopedrohlima](https://www.linkedin.com/in/joaopedrohlima/)
 
